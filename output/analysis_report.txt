@@ -1,0 +1,70 @@
+Session: FIT-2026-001
+Participant: Amina Noor (P001)
+Usable observations: 6
+Classification: resting
+Explanation: Average activity level was 0.09 and heart rate was 0.83 bpm above baseline.
+Average heart rate: 68.83333333333333
+Minimum heart rate: 68
+Maximum heart rate: 70
+Average activity level: 0.09333333333333334
+
+Session: FIT-2026-002
+Participant: Jonas Berg (P002)
+Usable observations: 6
+Classification: moderate activity
+Explanation: Average activity level was 0.50 and heart rate was 28.00 bpm above baseline.
+Average heart rate: 102.0
+Minimum heart rate: 78
+Maximum heart rate: 118
+Average activity level: 0.49500000000000005
+
+Session: FIT-2026-003
+Participant: Maya Chen (P003)
+Usable observations: 6
+Classification: high activity
+Explanation: Average activity level was 0.75 and heart rate was 69.50 bpm above baseline.
+Average heart rate: 132.5
+Minimum heart rate: 72
+Maximum heart rate: 162
+Average activity level: 0.7466666666666667
+
+Session: FIT-2026-004
+Participant: Amina Noor (P001)
+Usable observations: 6
+Classification: high activity
+Explanation: Average activity level was 0.55 and heart rate was 45.17 bpm above baseline.
+Average heart rate: 113.16666666666667
+Minimum heart rate: 72
+Maximum heart rate: 151
+Average activity level: 0.5466666666666666
+
+Session: FIT-2026-005
+Participant: Jonas Berg (P002)
+Usable observations: 0
+Classification: insufficient data
+Explanation: There are fewer than 3 usable observations.
+Average heart rate: None
+Minimum heart rate: None
+Maximum heart rate: None
+Average activity level: None
+
+Session: FIT-2026-101
+Participant: Amina Noor (P001)
+Usable observations: 1
+Classification: insufficient data
+Explanation: There are fewer than 3 usable observations.
+Average heart rate: 72.0
+Minimum heart rate: 72
+Maximum heart rate: 72
+Average activity level: 0.1
+
+Session: FIT-2026-102
+Participant: Jonas Berg (P002)
+Usable observations: 0
+Classification: insufficient data
+Explanation: There are fewer than 3 usable observations.
+Average heart rate: None
+Minimum heart rate: None
+Maximum heart rate: None
+Average activity level: None
+
